@@ -6,6 +6,7 @@ public class aaa {
 	public static void main(String[] args) {
 		int a = 1;
 		int c=b+a;
+		//后
 		int d=c+a;
 		//吼吼
 		System.out.println(d);
