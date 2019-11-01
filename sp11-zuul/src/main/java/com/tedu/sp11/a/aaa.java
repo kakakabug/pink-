@@ -7,6 +7,7 @@ public class aaa {
 		int a = 1;
 		int c=b+a;
 		int d=c+a;
+		//吼吼
 		System.out.println(d);
 		System.out.println(c);
 
